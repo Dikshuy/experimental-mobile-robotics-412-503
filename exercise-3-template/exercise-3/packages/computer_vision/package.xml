@@ -1,0 +1,11 @@
+<package>
+  <name>computer_vision</name>
+  <version>0.1.0</version>
+  <description>
+  This package contains the code for solving basic computer vision tasks.
+  </description>
+  <maintainer email="ddikshan@ualberta.ca">Dikshant</maintainer>
+  <license>None</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+</package>

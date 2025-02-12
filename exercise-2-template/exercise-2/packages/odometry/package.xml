@@ -1,0 +1,11 @@
+<package>
+  <name>odometry</name>
+  <version>0.1.0</version>
+  <description>
+  This package contains the code for doing odometry with wheel encoders.
+  </description>
+  <maintainer email="ddikshan@ualberta.ca">Dikshant</maintainer>
+  <license>None</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+</package>

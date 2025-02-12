@@ -1,0 +1,7 @@
+We are providing you with a template code and directory structure to help you get started quickly and easily. The zip file for the template code is on #exercise2 channel on CMPUT 412/503 W25 slack. 
+
+The provided function blocks are meant to be flexible guidelines that you can modify, replace, or expand as needed. Think of them as a starting point that saves you time and provides a basic framework, but not as rigid rules. You're free to adapt the code to best suit your project's specific requirements, making development more straightforward and allowing you to focus on solving your unique challenges. These codeblocks can be directly used in the upcoming assignments as well.
+
+This is how the overall structure of the your final submission looks like, if you are confused by any chance, please let the TAs know about it. 
+
+Hope you will enjoy this assignment! B)

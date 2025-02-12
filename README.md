@@ -1,1 +1,1 @@
-# CMPUT403-512-templates
+# CMPUT 403-512: Experimental Mobile Robotics

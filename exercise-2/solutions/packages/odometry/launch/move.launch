@@ -1,0 +1,12 @@
+<launch>
+
+  <group ns="$(arg veh)">
+
+    <node pkg="odometry" type="annotate_image.py" name="annotate_image_node" output="screen"/>
+    <node pkg="odometry" type="move.py" name="robot_movement_node" output="screen"/>
+    <node pkg="odometry" type="lights.py" name="light_controller_node" output="screen"/>
+    <node pkg="odometry" type="trajectory.py" name="trajectory_tracking_node" output="screen"/>
+
+  </group>
+
+</launch>

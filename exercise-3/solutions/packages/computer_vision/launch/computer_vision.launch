@@ -1,0 +1,11 @@
+<launch>
+
+  <group ns="$(arg veh)">
+
+    <!-- <node pkg="computer_vision" type="lane_detection.py" name="lane_detection_node" output="screen"/> -->
+    <node pkg="computer_vision" type="new_lane.py" name="lane_following_node" output="screen"/>
+    <!-- <node pkg="computer_vision" type="lane_based_behavior_controller.py" name="behavior_controller_node" output="screen"/> -->
+
+  </group>
+
+</launch>

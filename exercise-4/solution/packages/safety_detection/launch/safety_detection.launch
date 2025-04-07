@@ -1,0 +1,11 @@
+<launch>
+
+  <group ns="$(arg veh)">
+
+    <!-- <node pkg="safety_detection" type="apriltag_detection.py" name="apriltag_detector_node" output="screen"/> -->
+    <!-- <node pkg="safety_detection" type="crosswalk.py" name="crosswalk_node" output="screen"/> -->
+    <node pkg="safety_detection" type="safe_navigation.py" name="safe_nav_node" output="screen"/>
+
+  </group>
+
+</launch>
